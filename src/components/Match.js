@@ -1,7 +1,5 @@
 /* Match.js */
-
 import React from "react"; //optional
-
 function Match() {
   return (
     <article className="Match">
